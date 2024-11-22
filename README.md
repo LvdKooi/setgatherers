@@ -1,6 +1,6 @@
 # Set Gatherers
 
-Welcome to **Set Gatherers**, a small codebase designed for exploring operations on sets using Java. This project demonstrates how to work with concepts like union, intersection, and set differences while providing a functional and customizable approach.
+Welcome to **Set Gatherers**, a small codebase designed for exploring operations on sets using Java. This project demonstrates how to work with concepts like union, intersection, and set differences while providing a functional and customizable approach. This codebase was inspired by my colleague Tristano Suriani, whose enthusiasm and enjoyment while studying Set Theory sparked the idea for this project.
 
 ## Features
 
